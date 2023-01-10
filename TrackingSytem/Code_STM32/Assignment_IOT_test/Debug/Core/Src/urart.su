@@ -1,0 +1,5 @@
+../Core/Src/urart.c:22:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/urart.c:31:6:command_parser_fsm	16	static
+../Core/Src/urart.c:88:6:uart_communiation_fsm	8	static
+../Core/Src/urart.c:121:6:reset_buffer	16	static
+../Core/Src/urart.c:129:5:isFlag	4	static

@@ -1,0 +1,3 @@
+0 Mask on
+1 Mask off
+2 Other
